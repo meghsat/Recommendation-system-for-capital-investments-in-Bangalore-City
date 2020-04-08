@@ -1,6 +1,10 @@
 # Recommendation system for capital investments in Bangalore City.
 This Repo is dedicated to my work that i had done as part of my coursera_capstone Project
 
+For Better Understanding refer my article:
+https://medium.com/@srisatyasaidevineni/recommendation-system-for-capital-investments-in-bangalore-city-fd3251e0b82e
+
+
 Abstract: 
 In our project, we will be helping the entrepreneurs by recommending them the best place to establish their businesses by providing predominant details like:
 1. Are there any competitors in that area? if so how is their business running?
