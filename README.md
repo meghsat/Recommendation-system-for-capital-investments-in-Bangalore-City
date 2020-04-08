@@ -1,5 +1,3 @@
-# Recommendation-system-for-capital-investments-in-Bangalore-City
-
 # Recommendation system for capital investments in Bangalore City.
 This Repo is dedicated to my work that i had done as part of my coursera_capstone Project
 
