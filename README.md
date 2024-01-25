@@ -24,4 +24,7 @@ For those who are moving to Bangalore for the first time and might be unfamiliar
 6. Size of the apartment in square feet.
 7. Distance to recreational facilities, such as badminton courts.
 8. With this project, our goal is to make the relocation and business establishment process in Bangalore more informed and hassle-free.
-data Set used: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
+![image](https://github.com/meghsat/Recommendation-system-for-capital-investments-in-Bangalore-City/assets/46103704/ecf13210-56ce-4ebb-b700-1992dca9552f)
+
+Data set used: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
