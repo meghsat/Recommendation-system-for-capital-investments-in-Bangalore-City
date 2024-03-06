@@ -1,5 +1,5 @@
 # Recommendation system for capital investments in Bangalore City.
-For Better Understanding refer my article:
+For a Better Understanding refer to my article:
 https://medium.com/@srisatyasaidevineni/recommendation-system-for-capital-investments-in-bangalore-city-fd3251e0b82e
 
 Abstract: 
